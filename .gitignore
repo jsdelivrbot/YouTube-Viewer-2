@@ -1,8 +1,4 @@
-/node_modules
-bundle.js
-npm-debug.log
-.DS_Store
-
-# IntelliJ
-*.iml
-/.idea
+YouTube-Viewer/node_modules
+YouTube-Viewer/bundle.js
+YouTube-Viewer/npm-debug.log
+YouTube-Viewer/.DS_Store
